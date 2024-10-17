@@ -1,7 +1,7 @@
 # SUMMARY
 This repository contains a Power BI dashboard focused on analyzing sales data to generate actionable insights. The key visualizations include profit analysis segmented by different business areas, identification of the top 10 sales per city, and ranking of the top 10 states by profit. Additionally, sales are categorized by product, facilitating a comprehensive overview of performance. Two slicers for category and segment have been implemented to enhance interactivity, allowing users to filter and explore the data dynamically. This project demonstrates my ability to leverage data visualization tools to derive meaningful business insights and support decision-making processes.
 
-# INSIGHTS
+# INSIGHTS AND RECOMMENDATIONS
 Based on the insights gained from the sales data analysis, several strategic recommendations can be made to capitalize on the identified top performers:
 
 1.  Targeted Marketing Campaigns: Given California and New York City are top performers, implementing targeted marketing strategies specific to these regions could enhance engagement and drive further sales. Consider localized advertising and promotions that resonate with the preferences and demographics of consumers in these areas.
